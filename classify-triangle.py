@@ -26,5 +26,11 @@ def test_scalene():
     assert classify_triangle(4, 5, 6) == "Scalene"
     assert classify_triangle(2, 3, 4) == "Scalene"
 
-triangleType = classify_triangle(4, 7, 5) + " Triangle"
-print(triangleType)
+
+if __name__ == "__main__":
+    a = input("Enter the length of the first side of the triangle:")
+    b = input("Enter the length of the second side of the triangle:")
+    c = input("Enter the length of the third side of the triangle:")
+
+    triangleType = classify_triangle(a, b, c) + " Triangle"
+    print(triangleType)
