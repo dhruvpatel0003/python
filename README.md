@@ -6,3 +6,9 @@ The github_user_data_retrival.py file under GitHubApi567-hw4a fetches a given us
 
 ## How to Run
 python github_user_data_retrival.py
+
+
+# hw-07b
+ Triangle.py : contains an implementation of the classifyTriangle() function with a few bugs.  
+
+TestTriangle.py : contains the initial set of test cases
