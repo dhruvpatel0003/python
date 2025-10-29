@@ -4,7 +4,7 @@ Updated Oct 26, 2025
 The primary goal of this file is to demonstrate a simple unittest implementation
 
 @author: jrr
-@author: rk
+@author: Dhruv Patel
 """
 
 import unittest
